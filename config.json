@@ -1,0 +1,19 @@
+{
+  "// General Settings //": "",
+  "Farm Time": 60,
+  "Check Rewards after farm": true,
+  "Check Botnet after farm": true,
+  "Random Breaks": true,
+  "Random Chance": 1,
+  "Random Breaks wait": [30, 300],
+
+  "// Mine Settings //": "",
+  "Mine Speed": 6,
+  "Click Delay": [0.1, 2],
+  "Mine Passes until Cooldown": 2,
+  "Cooldown Wait Time": [30, 120],
+
+  "// Botnet Settings //": "",
+  "Botnet Chapter": 2,
+  "TTK Botnet Target": 5
+}
