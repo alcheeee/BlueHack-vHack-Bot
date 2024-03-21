@@ -6,7 +6,7 @@ BlueHack is an automation script designed for the game 'vHack Revolutions - Hack
 > **Educational Purposes Only:** This project is designed solely for educational purposes to demonstrate concepts in programming, automation, and GUI interaction using PyAutoGUI. It is not intended for use in cheating or automating gameplay. The use of this project in a live game environment may go against the terms of service. Such practices are strongly discouraged and may result in a game ban.
 
 ## Features 🌟
-
+ 
 - **NC Mining:** Automated mining for netcoins within the game.
 - **Botnet Farming:** Automated farming in the botnet section of the game, based on the configured chapter.
   - ⚠️ *Note: Buggy, often won't find a target to 'attack'.*
